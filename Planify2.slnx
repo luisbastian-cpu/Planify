@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Fronted/">
+    <File Path="Planify.Frontend/package.json" />
+  </Folder>
+  <Project Path="Plamify.Application/Planify.Application.csproj" />
+  <Project Path="Planify.Domain/Planify.Domain.csproj" />
+  <Project Path="Planify.Infrastructure/Planify.Infrastructure.csproj" />
+  <Project Path="Planify.WebAPI/Planify.WebAPI.csproj" />
+</Solution>
