@@ -16,21 +16,21 @@ namespace Planify.WebAPI.Controllers
             _mediator = mediator;
         }
 
-        [HttpGet]
+        [HttpGet ("Obtener_tareas")]
         public async Task<IActionResult> Get()
         {
             var result = await _mediator.Send(new GetTasksQuery());
             return Ok(result);
         }
 
-        [HttpPost]
+        [HttpPost("Crear_tareas")]
         public async Task<IActionResult> Create([FromBody] CreateTaskCommand command)
         {
             var result = await _mediator.Send(command);
             return Ok(result);
         }
 
-        [HttpPut("{id}")]
+        [HttpPut("Actualizar_tarea/{id}")]
         public async Task<IActionResult> Update(int id, [FromBody] UpdateTaskCommand command)
         {
             
@@ -43,7 +43,7 @@ namespace Planify.WebAPI.Controllers
             return Ok();
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("Eliminar_tarea/{id}")]
         public async Task<IActionResult> Delete(int id)
         {
             await _mediator.Send(new DeleteTaskCommand(id));

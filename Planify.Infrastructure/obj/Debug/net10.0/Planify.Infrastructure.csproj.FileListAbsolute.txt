@@ -32,3 +32,6 @@ C:\Users\hanse\source\repos\Planify2\Planify.Infrastructure\bin\Debug\net10.0\Pl
 C:\Users\hanse\source\repos\Planify2\Planify.Infrastructure\bin\Debug\net10.0\Planify.Domain.pdb
 C:\Users\hanse\source\repos\Planify2\Planify.Infrastructure\obj\Debug\net10.0\Planify..27192BD9.Up2Date
 C:\Users\hanse\source\repos\Planify2\Planify.Infrastructure\obj\Debug\net10.0\ref\Planify.Infrastructure.dll
+C:\Users\hanse\source\repos\Planify2\Planify.Infrastructure\obj\Debug\net10.0\Planify.Infrastructure.sourcelink.json
+C:\Users\hanse\source\repos\Planify2\Planify.Infrastructure\bin\Debug\net10.0\Planify.Infrastructure.runtimeconfig.json
+C:\Users\hanse\source\repos\Planify2\Planify.Infrastructure\obj\Debug\net10.0\Planify.Infrastructure.genruntimeconfig.cache

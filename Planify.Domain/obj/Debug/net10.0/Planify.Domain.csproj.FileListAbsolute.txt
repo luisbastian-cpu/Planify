@@ -22,3 +22,4 @@ C:\Users\hanse\source\repos\Planify2\Planify.Domain\obj\Debug\net10.0\Planify.Do
 C:\Users\hanse\source\repos\Planify2\Planify.Domain\obj\Debug\net10.0\refint\Planify.Domain.dll
 C:\Users\hanse\source\repos\Planify2\Planify.Domain\obj\Debug\net10.0\Planify.Domain.pdb
 C:\Users\hanse\source\repos\Planify2\Planify.Domain\obj\Debug\net10.0\ref\Planify.Domain.dll
+C:\Users\hanse\source\repos\Planify2\Planify.Domain\obj\Debug\net10.0\Planify.Domain.sourcelink.json

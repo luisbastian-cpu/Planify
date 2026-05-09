@@ -1,47 +1,50 @@
-﻿using Planify.Application.Common.Interfaces;
+﻿using Microsoft.EntityFrameworkCore;
+using Planify.Application.Common.Interfaces;
 using Planify.Domain.Entities;
 
-namespace Planify.Infrastructure.Persistence
+namespace Planify.Infrastructure.Persistence;
+
+public class TaskRepository : ITaskRepository
 {
-    public class TaskRepository : ITaskRepository
+    private readonly AppDbContext _context;
+
+    public TaskRepository(AppDbContext context)
     {
-        private static List<TaskItem> _tasks = new();
+        _context = context;
+    }
 
-        public Task<List<TaskItem>> GetAllAsync()
+    public async Task<List<TaskItem>> GetAllAsync()
+    {
+        return await _context.Tasks.ToListAsync();
+    }
+
+    public async Task AddAsync(TaskItem task)
+    {
+        _context.Tasks.Add(task);
+        await _context.SaveChangesAsync();
+    }
+
+    public async Task UpdateAsync(TaskItem task)
+    {
+        var existing = await _context.Tasks.FirstOrDefaultAsync(x => x.Id == task.Id);
+
+        if (existing != null)
         {
-            return Task.FromResult(_tasks);
+            existing.Title = task.Title;
+            existing.Description = task.Description;
+            existing.Completed = task.Completed;
+            await _context.SaveChangesAsync();
         }
+    }
 
-        public Task AddAsync(TaskItem task)
+    public async Task DeleteAsync(int id)
+    {
+        var task = await _context.Tasks.FirstOrDefaultAsync(x => x.Id == id);
+
+        if (task != null)
         {
-            task.Id = _tasks.Count + 1;
-            _tasks.Add(task);
-
-            return Task.CompletedTask;
-        }
-
-        public Task UpdateAsync(TaskItem task)
-        {
-            var existing = _tasks.FirstOrDefault(x => x.Id == task.Id);
-
-            if (existing != null)
-            {
-                existing.Title = task.Title;
-                existing.Description = task.Description;
-                existing.Completed = task.Completed;
-            }
-
-            return Task.CompletedTask;
-        }
-
-        public Task DeleteAsync(int id)
-        {
-            var task = _tasks.FirstOrDefault(x => x.Id == id);
-
-            if (task != null)
-                _tasks.Remove(task);
-
-            return Task.CompletedTask;
+            _context.Tasks.Remove(task);
+            await _context.SaveChangesAsync();
         }
     }
 }

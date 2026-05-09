@@ -1,36 +1,50 @@
 [
   {
-    "ContainingType": "Planify.WebAPI.Controllers.TasksController",
-    "Method": "Get",
-    "RelativePath": "api/tasks",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [],
-    "EndpointName": "GetTasks"
-  },
-  {
-    "ContainingType": "Planify.WebAPI.Controllers.TasksController",
-    "Method": "Create",
-    "RelativePath": "api/tasks",
+    "ContainingType": "Planify.WebAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "command",
-        "Type": "Planify.Application.Commands.CreateTaskCommand",
+        "Name": "request",
+        "Type": "Planify.WebAPI.Controllers.LoginRequest",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [],
-    "EndpointName": "CreateTask"
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Planify.WebAPI.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Planify.WebAPI.Controllers.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Planify.WebAPI.Controllers.AuthController",
+    "Method": "GetUsuarios",
+    "RelativePath": "api/Auth/usuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Planify.WebAPI.Controllers.TasksController",
     "Method": "Update",
-    "RelativePath": "api/tasks/{id}",
+    "RelativePath": "api/tasks/Actualizar_tarea/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -46,13 +60,28 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [],
-    "EndpointName": "UpdateTask"
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Planify.WebAPI.Controllers.TasksController",
+    "Method": "Create",
+    "RelativePath": "api/tasks/Crear_tareas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Planify.Application.Commands.CreateTaskCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Planify.WebAPI.Controllers.TasksController",
     "Method": "Delete",
-    "RelativePath": "api/tasks/{id}",
+    "RelativePath": "api/tasks/Eliminar_tarea/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -63,8 +92,86 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [],
-    "EndpointName": "DeleteTask"
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Planify.WebAPI.Controllers.TasksController",
+    "Method": "Get",
+    "RelativePath": "api/tasks/Obtener_tareas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserBooksController",
+    "Method": "Create",
+    "RelativePath": "api/user-books",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Planify.Application.Commands.CreateBook",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserBooksController",
+    "Method": "Update",
+    "RelativePath": "api/user-books/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "Planify.Application.Commands.UpdateUserBookCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserBooksController",
+    "Method": "Delete",
+    "RelativePath": "api/user-books/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserBooksController",
+    "Method": "Get",
+    "RelativePath": "api/user-books/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Planify.WebAPI.Controllers.WeatherForecastController",

@@ -3,28 +3,184 @@
   "WorkspaceRootPath": "C:\\Users\\hanse\\source\\repos\\Planify2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.webapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|solutionrelative:planify.webapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.webapi\\planify.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|solutionrelative:planify.webapi\\planify.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|solutionrelative:planify.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|solutionrelative:planify.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.webapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|solutionrelative:planify.webapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|solutionrelative:planify.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|solutionrelative:planify.webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|solutionrelative:planify.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|solutionrelative:planify.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.infrastructure\\persistence\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|solutionrelative:planify.infrastructure\\persistence\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.infrastructure\\persistence\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|solutionrelative:planify.infrastructure\\persistence\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|solutionrelative:planify.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.infrastructure\\migrations\\20260322223204_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|solutionrelative:planify.infrastructure\\migrations\\20260322223204_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|solutionrelative:planify.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80049AF-5992-73B1-33F7-F28EFF6C2681}|Planify.Domain\\Planify.Domain.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80049AF-5992-73B1-33F7-F28EFF6C2681}|Planify.Domain\\Planify.Domain.csproj|solutionrelative:planify.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80049AF-5992-73B1-33F7-F28EFF6C2681}|Planify.Domain\\Planify.Domain.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.domain\\entities\\userbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80049AF-5992-73B1-33F7-F28EFF6C2681}|Planify.Domain\\Planify.Domain.csproj|solutionrelative:planify.domain\\entities\\userbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80049AF-5992-73B1-33F7-F28EFF6C2681}|Planify.Domain\\Planify.Domain.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80049AF-5992-73B1-33F7-F28EFF6C2681}|Planify.Domain\\Planify.Domain.csproj|solutionrelative:planify.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80049AF-5992-73B1-33F7-F28EFF6C2681}|Planify.Domain\\Planify.Domain.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80049AF-5992-73B1-33F7-F28EFF6C2681}|Planify.Domain\\Planify.Domain.csproj|solutionrelative:planify.domain\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80049AF-5992-73B1-33F7-F28EFF6C2681}|Planify.Domain\\Planify.Domain.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.domain\\entities\\bookstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D80049AF-5992-73B1-33F7-F28EFF6C2681}|Planify.Domain\\Planify.Domain.csproj|solutionrelative:planify.domain\\entities\\bookstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\queries\\getuserbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\queries\\getuserbooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\queries\\gettasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\queries\\gettasksqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\queries\\gettasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\queries\\gettasksquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\common\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\common\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\common\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\common\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\common\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\common\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\updatetaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\updatetaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\updatetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\updatetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\updatebookhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\updatebookhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\updatebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\loginusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\getbookshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\getbookshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\deletetaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\deletetaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\common\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\common\\interfaces\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\deletetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\deletetaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\deletebookhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\deletebookhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\deletebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\deletebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\createtaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\createtaskcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\createtaskcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\createbookhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\createbookhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\commands\\createbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\commands\\createbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.infrastructure\\planify.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CB32706-44EC-8304-D4D5-5D9B96292AD9}|Planify.Infrastructure\\Planify.Infrastructure.csproj|solutionrelative:planify.infrastructure\\planify.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|c:\\users\\hanse\\source\\repos\\planify2\\plamify.application\\planify.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4E5ACEF4-B374-04E7-B017-B31DD473D75D}|Plamify.Application\\Planify.Application.csproj|solutionrelative:plamify.application\\planify.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D80049AF-5992-73B1-33F7-F28EFF6C2681}|Planify.Domain\\Planify.Domain.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.domain\\planify.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D80049AF-5992-73B1-33F7-F28EFF6C2681}|Planify.Domain\\Planify.Domain.csproj|solutionrelative:planify.domain\\planify.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|c:\\users\\hanse\\source\\repos\\planify2\\planify.webapi\\planify.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A10862A6-C097-7B0C-7B6A-D1AAE6645B39}|Planify.WebAPI\\Planify.WebAPI.csproj|solutionrelative:planify.webapi\\planify.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,20 +190,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Planify.WebAPI\\Program.cs",
               "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Program.cs",
               "RelativeToolTip": "Planify.WebAPI\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T03:45:32.871Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Planify.WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Planify.WebAPI.http",
+              "RelativeDocumentMoniker": "Planify.WebAPI\\Planify.WebAPI.http",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Planify.WebAPI.http",
+              "RelativeToolTip": "Planify.WebAPI\\Planify.WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-09T20:50:47.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Planify.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Planify.WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:50:20.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Planify.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Planify.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:49:25.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Planify.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Planify.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:49:06.285Z",
               "EditorCaption": ""
             },
             {
@@ -56,20 +264,306 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "TaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Persistence\\TaskRepository.cs",
+              "RelativeDocumentMoniker": "Planify.Infrastructure\\Persistence\\TaskRepository.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Persistence\\TaskRepository.cs",
+              "RelativeToolTip": "Planify.Infrastructure\\Persistence\\TaskRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T23:47:23.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Planify.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Planify.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:45:31.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Planify.WebAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Planify.WebAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:52:59.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "Planify.WebAPI\\Controllers\\TasksController.cs",
               "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Controllers\\TasksController.cs",
               "RelativeToolTip": "Planify.WebAPI\\Controllers\\TasksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T06:03:36.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Planify.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\appsettings.json",
+              "RelativeToolTip": "Planify.WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-22T22:14:59.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20260322223204_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Migrations\\20260322223204_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Planify.Infrastructure\\Migrations\\20260322223204_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Migrations\\20260322223204_InitialCreate.cs",
+              "RelativeToolTip": "Planify.Infrastructure\\Migrations\\20260322223204_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:48:56.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Planify.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Domain\\Class1.cs",
+              "RelativeToolTip": "Planify.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:48:34.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookStatus.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Domain\\Entities\\BookStatus.cs",
+              "RelativeDocumentMoniker": "Planify.Domain\\Entities\\BookStatus.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Domain\\Entities\\BookStatus.cs",
+              "RelativeToolTip": "Planify.Domain\\Entities\\BookStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:32:06.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Plamify.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:47:56.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Class1.cs",
+              "RelativeToolTip": "Plamify.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:47:54.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Persistence\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Planify.Infrastructure\\Persistence\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Persistence\\UserRepository.cs",
+              "RelativeToolTip": "Planify.Infrastructure\\Persistence\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:44:36.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetTasksQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Queries\\GetTasksQueryHandler.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Queries\\GetTasksQueryHandler.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Queries\\GetTasksQueryHandler.cs",
+              "RelativeToolTip": "Plamify.Application\\Queries\\GetTasksQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:47:46.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetTasksQuery.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Queries\\GetTasksQuery.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Queries\\GetTasksQuery.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Queries\\GetTasksQuery.cs",
+              "RelativeToolTip": "Plamify.Application\\Queries\\GetTasksQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:47:43.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Domain\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Planify.Domain\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Domain\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "Planify.Domain\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T22:14:02.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Planify.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Planify.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:39:48.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Planify.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Planify.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T22:07:57.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Common\\Interfaces\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Common\\Interfaces\\IAppDbContext.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Common\\Interfaces\\IAppDbContext.cs",
+              "RelativeToolTip": "Plamify.Application\\Common\\Interfaces\\IAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:19:24.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserBook.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Domain\\Entities\\UserBook.cs",
+              "RelativeDocumentMoniker": "Planify.Domain\\Entities\\UserBook.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Domain\\Entities\\UserBook.cs",
+              "RelativeToolTip": "Planify.Domain\\Entities\\UserBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T16:29:46.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateTaskCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\UpdateTaskCommandHandler.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\UpdateTaskCommandHandler.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\UpdateTaskCommandHandler.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\UpdateTaskCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T02:21:02.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateTaskCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\UpdateTaskCommand.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\UpdateTaskCommand.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\UpdateTaskCommand.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\UpdateTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:47:14.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpdateBook.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\UpdateBook.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\UpdateBook.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\UpdateBook.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\UpdateBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:08:43.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetUserBooks.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Queries\\GetUserBooks.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Queries\\GetUserBooks.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Queries\\GetUserBooks.cs",
+              "RelativeToolTip": "Plamify.Application\\Queries\\GetUserBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:45:35.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\RegisterUserCommand.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:41:06.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "ITaskRepository.cs",
               "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Common\\Interfaces\\ITaskRepository.cs",
               "RelativeDocumentMoniker": "Plamify.Application\\Common\\Interfaces\\ITaskRepository.cs",
@@ -82,42 +576,207 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 23,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Common\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Common\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Common\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Plamify.Application\\Common\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:43:39.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\LoginUserCommand.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\LoginUserCommand.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\LoginUserCommand.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\LoginUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T08:41:35.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetBooksHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\GetBooksHandler.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\GetBooksHandler.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\GetBooksHandler.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\GetBooksHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:51:39.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "DeleteTaskCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\DeleteTaskCommandHandler.cs",
               "RelativeDocumentMoniker": "Plamify.Application\\Commands\\DeleteTaskCommandHandler.cs",
               "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\DeleteTaskCommandHandler.cs",
               "RelativeToolTip": "Plamify.Application\\Commands\\DeleteTaskCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T02:23:52.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateTaskCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\UpdateTaskCommandHandler.cs",
-              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\UpdateTaskCommandHandler.cs",
-              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\UpdateTaskCommandHandler.cs",
-              "RelativeToolTip": "Plamify.Application\\Commands\\UpdateTaskCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 34,
+              "Title": "DeleteTaskCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\DeleteTaskCommand.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\DeleteTaskCommand.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\DeleteTaskCommand.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\DeleteTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T02:21:02.528Z",
+              "WhenOpened": "2026-05-09T20:46:51.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TaskRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Persistence\\TaskRepository.cs",
-              "RelativeDocumentMoniker": "Planify.Infrastructure\\Persistence\\TaskRepository.cs",
-              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Persistence\\TaskRepository.cs",
-              "RelativeToolTip": "Planify.Infrastructure\\Persistence\\TaskRepository.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwC4AAAABAAAAAAAAAA==",
+              "DocumentIndex": 28,
+              "Title": "UpdateBookHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\UpdateBookHandler.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\UpdateBookHandler.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\UpdateBookHandler.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\UpdateBookHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T23:47:23.86Z",
+              "WhenOpened": "2026-04-20T17:22:44.983Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DeleteBook.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\DeleteBook.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\DeleteBook.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\DeleteBook.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\DeleteBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:11:32.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateTaskCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\CreateTaskCommandHandler.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\CreateTaskCommandHandler.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\CreateTaskCommandHandler.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\CreateTaskCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:46:38.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateTaskCommand.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\CreateTaskCommand.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\CreateTaskCommand.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\CreateTaskCommand.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\CreateTaskCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T20:46:35.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Planify.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Planify.Application.csproj",
+              "RelativeDocumentMoniker": "Plamify.Application\\Planify.Application.csproj",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Planify.Application.csproj",
+              "RelativeToolTip": "Plamify.Application\\Planify.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-20T18:00:33.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Planify.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Domain\\Planify.Domain.csproj",
+              "RelativeDocumentMoniker": "Planify.Domain\\Planify.Domain.csproj",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Domain\\Planify.Domain.csproj",
+              "RelativeToolTip": "Planify.Domain\\Planify.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-20T17:58:02.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeleteBookHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\DeleteBookHandler.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\DeleteBookHandler.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\DeleteBookHandler.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\DeleteBookHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:39:50.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateBook.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\CreateBook.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\CreateBook.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\CreateBook.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\CreateBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:05:18.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CreateBookHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\CreateBookHandler.cs",
+              "RelativeDocumentMoniker": "Plamify.Application\\Commands\\CreateBookHandler.cs",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Plamify.Application\\Commands\\CreateBookHandler.cs",
+              "RelativeToolTip": "Plamify.Application\\Commands\\CreateBookHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T17:15:46.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Planify.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Planify.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Planify.Infrastructure\\Planify.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.Infrastructure\\Planify.Infrastructure.csproj",
+              "RelativeToolTip": "Planify.Infrastructure\\Planify.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-20T08:44:11.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Planify.WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Planify.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Planify.WebAPI\\Planify.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\hanse\\source\\repos\\Planify2\\Planify.WebAPI\\Planify.WebAPI.csproj",
+              "RelativeToolTip": "Planify.WebAPI\\Planify.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-20T18:00:29.72Z"
             }
           ]
         }

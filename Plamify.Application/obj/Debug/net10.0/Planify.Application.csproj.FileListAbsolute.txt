@@ -28,3 +28,4 @@ C:\Users\hanse\source\repos\Planify2\Plamify.Application\bin\Debug\net10.0\Plani
 C:\Users\hanse\source\repos\Planify2\Plamify.Application\bin\Debug\net10.0\Planify.Domain.pdb
 C:\Users\hanse\source\repos\Planify2\Plamify.Application\obj\Debug\net10.0\Planify..D2BA614F.Up2Date
 C:\Users\hanse\source\repos\Planify2\Plamify.Application\obj\Debug\net10.0\ref\Planify.Application.dll
+C:\Users\hanse\source\repos\Planify2\Plamify.Application\obj\Debug\net10.0\Planify.Application.sourcelink.json
